@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(62, 62, 88);
+    color: white;
+    text-align: center;
+}
+td{
+    text-align: center;
+    font-size: 60px;
+    width: 100px;
+    height: 100px;
+}
+table {
+    border-spacing: 0;
+    margin: auto;
+}
+.tds-first {
+    border-bottom: 2px solid #ffffff;
+}
+.tds-middle {
+    border-bottom: 2px solid #ffffff;
+}
+.one {
+    border-right: 2px solid #ffffff;
+}
+.two {
+    border-right: 2px solid #ffffff;
+}
+.players {
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    padding-left: 40px;
+}
+button {
+    background-color: rgb(101, 82, 147);
+    border: none;
+    color: white;
+}
